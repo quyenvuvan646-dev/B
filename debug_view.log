@@ -1,0 +1,92 @@
+View data:
+Array
+(
+    [page] => DistributorShippingRulesView
+    [rules] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [distributor_email] => namulsa18@gmail.com
+                    [distance_from] => 0
+                    [distance_to] => 5
+                    [standard_fee] => 15000
+                    [fast_fee] => 25000
+                    [express_fee] => 80000
+                    [created_at] => 2025-12-08 20:23:23
+                    [updated_at] => 2025-12-08 20:23:23
+                    [standard_days] => 3
+                    [fast_days] => 2
+                    [express_days] => 1
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [distributor_email] => namulsa18@gmail.com
+                    [distance_from] => 5
+                    [distance_to] => 10
+                    [standard_fee] => 20000
+                    [fast_fee] => 35000
+                    [express_fee] => 120000
+                    [created_at] => 2025-12-08 20:23:23
+                    [updated_at] => 2025-12-08 20:23:23
+                    [standard_days] => 3
+                    [fast_days] => 2
+                    [express_days] => 1
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [distributor_email] => namulsa18@gmail.com
+                    [distance_from] => 10
+                    [distance_to] => 20
+                    [standard_fee] => 30000
+                    [fast_fee] => 50000
+                    [express_fee] => 180000
+                    [created_at] => 2025-12-08 20:23:23
+                    [updated_at] => 2025-12-08 20:23:23
+                    [standard_days] => 3
+                    [fast_days] => 2
+                    [express_days] => 1
+                )
+
+            [3] => Array
+                (
+                    [id] => 4
+                    [distributor_email] => namulsa18@gmail.com
+                    [distance_from] => 20
+                    [distance_to] => 50
+                    [standard_fee] => 50000
+                    [fast_fee] => 90000
+                    [express_fee] => 300000
+                    [created_at] => 2025-12-08 20:23:23
+                    [updated_at] => 2025-12-08 20:23:23
+                    [standard_days] => 3
+                    [fast_days] => 2
+                    [express_days] => 1
+                )
+
+            [4] => Array
+                (
+                    [id] => 5
+                    [distributor_email] => namulsa18@gmail.com
+                    [distance_from] => 51
+                    [distance_to] => 1000
+                    [standard_fee] => 30000
+                    [fast_fee] => 40000
+                    [express_fee] => 700000
+                    [created_at] => 2025-12-08 20:36:27
+                    [updated_at] => 2025-12-08 20:36:27
+                    [standard_days] => 3
+                    [fast_days] => 2
+                    [express_days] => 1
+                )
+
+        )
+
+    [rules_count] => 5
+    [error] => 
+    [success] => 
+)
